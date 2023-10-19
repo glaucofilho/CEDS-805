@@ -1,0 +1,4 @@
+pandas
+fastparquet
+matplotlib
+statsmodels
