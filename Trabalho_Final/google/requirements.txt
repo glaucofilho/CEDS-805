@@ -2,3 +2,5 @@ pandas
 statsmodels
 matplotlib
 fastparquet
+seaborn
+numpy
